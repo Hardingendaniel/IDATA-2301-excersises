@@ -1,0 +1,12 @@
+.card {
+    position: relative;
+    display: inline-block;
+    margin: 1em;
+}
+
+.tag {
+    position: absolute;
+    top: 0.5em;
+    right: 0.5em;
+}
+
